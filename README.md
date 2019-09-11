@@ -1,6 +1,4 @@
 # Exploration Of Ford GoBike Data
-## by Hassan Abbas Jaffri
-
 
 ## Introduciton
 
